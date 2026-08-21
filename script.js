@@ -18,3 +18,13 @@
       textNode.textContent = ` 0`;
      }
         })
+
+
+
+
+        // coração
+        function applilikedStyle(){
+         likeSvg.style.fill = "#FF1493"
+        }
+         
+        

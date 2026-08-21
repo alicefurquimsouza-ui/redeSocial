@@ -25,6 +25,7 @@
         // coração
         function applilikedStyle(){
          likeSvg.style.fill = "#FF1493"
+         likeSvg.style.stroke = 
         }
          
         
